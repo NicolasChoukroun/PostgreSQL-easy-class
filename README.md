@@ -1,6 +1,6 @@
 # PostgreSQL-easy-class
 
-PostgreSQ Easy to use PHP Class, from PHPSnipe framework.
+PostgreSQ Easy to use PHP Class, from PHPSnipe framework. Compatible with the Mysqli Easy Class from the same author.
 
 Include it and use it like this
 
